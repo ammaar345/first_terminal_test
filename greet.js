@@ -1,3 +1,3 @@
-module.exports=function greet (name){
-console.log(name)
-  return "Hello, "+name};
+module.exports = function greet(name) {
+  return "Hello, " + name
+};
